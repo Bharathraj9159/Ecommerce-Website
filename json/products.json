@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "name": "Yellow T-shirt",
+        "price": "₹18,675.00",
+        "images": [
+            "./images/tshirt/tshirt2.jpeg"
+        ],
+        "category": "tshirt",
+        "description": "Bright yellow T-shirt with round neck and short sleeves, crafted from 100% cotton for everyday comfort."
+    },
+    {
+        "id": 2,
+        "name": "Trendy Cotton Shirt",
+        "price": "₹1,826.00",
+        "images": [
+            "./images/shirt/shirt3.jpeg",
+            "./images/shirt/shirt1.jpeg",
+            "./images/shirt/shirt2.jpeg"
+        ],
+        "category": "shirt",
+        "isTrending": true,
+        "description": "A classic cotton shirt with a modern fit. Perfect for office wear or casual outings."
+    },
+    {
+        "id": 3,
+        "name": "Graphic Print T-shirt",
+        "price": "₹6,391.00",
+        "images": [
+            "./images/tshirt/tshirt1.jpeg"
+        ],
+        "category": "tshirt",
+        "description": "Trendy graphic print T-shirt made with soft cotton fabric. Ideal for casual everyday wear."
+    },
+    {
+        "id": 4,
+        "name": "Formal Office Shirt",
+        "price": "₹10,624.00",
+        "images": [
+            "./images/shirt/shirt2.jpeg"
+        ],
+        "category": "shirt",
+        "isTrending": true,
+        "description": "Elegant formal shirt designed for a sharp and professional look. Made with breathable cotton blend."
+    },
+    {
+        "id": 5,
+        "name": "Traditional Saree",
+        "price": "₹1,826.00",
+        "images": [
+            "./images/saree/saree2.jpeg",
+            "./images/saree/saree1.jpeg",
+            "./images/saree/saree3.jpeg"
+        ],
+        "category": "sarees",
+        "isTrending": true,
+        "description": "A beautifully woven traditional saree perfect for festive occasions and cultural events."
+    },
+    {
+        "id": 6,
+        "name": "Classic Kurtha Shirt",
+        "price": "₹7,055.00",
+        "images": [
+            "./images/shirt/shirt1.jpeg",
+            "./images/shirt/shirt2.jpeg"
+        ],
+        "category": "kurthas",
+        "description": "A kurtha-style shirt that blends ethnic charm with modern comfort. Ideal for festive wear."
+    },
+    {
+        "id": 7,
+        "name": "Casual Pants Shirt",
+        "price": "₹8,300.00",
+        "images": [
+            "./images/shirt/shirt3.jpeg",
+            "./images/shirt/shirt2.jpeg",
+            "./images/shirt/shirt1.jpeg"
+        ],
+        "category": "pants",
+        "isTrending": true,
+        "description": "Lightweight shirt ideal for pairing with casual pants. Perfect for daily wear."
+    },
+    {
+        "id": 8,
+        "name": "Premium Cotton Shirt",
+        "price": "₹7,346.00 - ₹7,787.00",
+        "images": [
+            "./images/shirt/shirt1.jpeg"
+        ],
+        "category": "shirt",
+        "isTrending": true,
+        "description": "Premium cotton shirt with a clean finish. Ideal for formal occasions and office wear."
+    },
+    {
+        "id": 9,
+        "name": "Multi-color Oversized T-shirt",
+        "price": "₹4,150.00",
+        "images": [
+            "./images/tshirt/tshirt3.jpeg",
+            "./images/tshirt/tshirt2.jpeg"
+        ],
+        "category": "tshirt",
+        "isTrending": true,
+        "description": "Oversized multi-color T-shirt designed for a relaxed and trendy look."
+    },
+    {
+        "id": 10,
+        "name": "Elegant Kurtha",
+        "price": "₹13,114.00",
+        "images": [
+            "./images/saree/saree1.jpeg",
+            "./images/saree/saree3.jpeg"
+        ],
+        "category": "kurthas",
+        "description": "An elegant kurtha with intricate detailing. Perfect for traditional events and casual functions."
+    },
+    {
+        "id": 11,
+        "name": "Shorts Casual T-shirt",
+        "price": "₹13,114.00",
+        "images": [
+            "./images/tshirt/tshirt1.jpeg"
+        ],
+        "category": "shorts",
+        "isTrending": true,
+        "description": "A simple casual T-shirt that pairs perfectly with shorts for a laid-back style."
+    },
+    {
+        "id": 12,
+        "name": "Oversized T-shirt",
+        "price": "₹4,150.00",
+        "images": [
+            "./images/tshirt/tshirt2.jpeg"
+        ],
+        "category": "tshirt",
+        "isTrending": true,
+        "description": "Oversized cotton T-shirt offering ultimate comfort and a cool streetwear look."
+    }
+]
